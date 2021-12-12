@@ -1,0 +1,18 @@
+// Variables & Functions
+@import 'variables';
+
+
+// Base & Layout
+@import 'base';
+
+
+.container {
+  max-width: 120rem;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 3rem;
+}
+
+body {
+  color: #fff;
+}
